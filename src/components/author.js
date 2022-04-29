@@ -13,7 +13,7 @@ const Author = () => {
                             <div className="grid-child" id="author-contents">
 
                                 <p>
-                                A book reader turned a book writer. His stories are a glimpse of his memoirs and his encounters with the pristine nature where he grows up. Looking back on his writing career, he had to say that it is a gift that came from his earliest attempts at capturing an inspiring event that he would feel was in need of being recorded.
+                                Barron Witherspoon, Sr. retired as P&G's Senior Vice President for Global Industry Affairs & The Corporate Race Initiative, based in the company's Cincinnati, Ohio Headquarters. Tapped by the CEO to lead the Corporate Race Initiative, his charge was to build a coalition to "define, declare and demonstrate the specific role corporations should play in improving racial equity in America." In Industry Affairs, he led the company's worldwide external interface with trade associations & thought leaders impacting public policy and industry standards.
                                 </p>
 
                                 <h1 className="author-name-tag">
@@ -33,9 +33,9 @@ const Author = () => {
                         <img alt="author-img" src={AuthorImg} />
                     </div>
 
-                    <div className="grid-child" id="author-image-container">
+                    {/* <div className="grid-child" id="author-image-container">
                         <img alt="author-img" src={DummyAuthor} hidden />
-                    </div>
+                    </div> */}
 
                 </div>
             </section>

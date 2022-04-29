@@ -10,15 +10,21 @@ import FeaturedLogos from "../components/mid-main"
 // import ParallaxBottom from "../components/parallax-bottom"
 // import Testimonial from "../components/testimonial"
 
+//Primary: 2A7CA4
+//Secondary: ec6168
+//Accent: 0E0D0E or F4F3F1
+
 const IndexPage = (props) => (
     <Layout>
         <Helmet title="Home | Barron Witherspoon Sr."/>
         <Nav pathExt={props.path} />
-        <Banner />        
+        <Banner />    
+        <Author />    
         <MidBook />
-        <Author />
+        
         {/* <ParallaxBottom/>   */}
         {/* <Testimonial/>        */}
+
         <FeaturedLogos />
     </Layout>
 )

@@ -35,15 +35,23 @@ const ATB = (props) => {
                         <article className="article-section column" id="author">
 
                             <p>
-                            A book reader turned a book writer. His stories are a glimpse of his memoirs and his encounters with the pristine nature where he grows up. Looking back on his writing career, he had to say that it is a gift that came from his earliest attempts at capturing an inspiring event that he would feel was in need of being recorded. As early as high school days, he already started collecting poems from a certain event that he encountered. His mother inspired him a lot to pursue his passion on writing by avidly reading book of literature to him and to other children.
+                            Barron Witherspoon, Sr. retired as P&G's Senior Vice President for Global Industry Affairs & The Corporate Race Initiative, based in the company's Cincinnati, Ohio Headquarters. Tapped by the CEO to lead the Corporate Race Initiative, his charge was to build a coalition to "define, declare and demonstrate the specific role corporations should play in improving racial equity in America." In Industry Affairs, he led the company's worldwide external interface with trade associations & thought leaders impacting public policy and industry standards.
                             </p>
 
                             <p>
-                            Along with the bookmobile that stopped in front of their home during summer break between his first and fourth grade years thus thrusting him into a lifetime of learning thru his avid reading. One other event shaping his thirst for learning was when he encountered the Greek philosopher’s teachings. Plato, a disciple of Socrates, and a teacher of Aristotle. Thus, having already in his youth developed a keen sense towards capturing inspiring events in his poems and stories. To his delightful encounter with their teachings, he intersected with it as their teachings arrived from the corridors of time at his receptive age. “If it wasn’t RECORDED it didn’t HAPPENED, UNTIL IT IS RECORDED, ONLY THEN WILL OUR CONTRIBUTIONS continue traveling on in the CORRIDORS of TIMELESSNESS?!?!” 
+                            Mr. Witherspoon held numerous officer-level roles including VP Global Operations for Strategic Revenue & Pricing Management where he worked at enterprise level across all business units to develop and implement topline growth strategies. He was VP and General Manager for P&G's Asia business, responsible for all customer-facing operations in Southeast Asia, Australasia, India (and later Korea and Japan). Based in Singapore, he led P&G's business in a massive geography with the highest store concentration in the world. His region spanned 13 time zones & served 1/3 of the world's consumers. He also led the company's global Paper Products business with Walmart, P&G's largest customer. His 35-year P&G career began in advertising in 1985 and his strong commercial leadership was evidenced in line and staff positions in Marketing, Finance and Sales.
                             </p>
 
                             <p>
-                            He is currently writing a sci-fi novel book which will be out soon. It will be a series book which will be full of adventures, learnings, entertainment and knowledge. He will continuously keep on writing as he wanted to nurture the gift that God has given to him to share more beautiful stories to people. Your comments and reviews in this webpage may contribute KNOWLEDGE to all of us in PURSUIT of a REMEDY for this UNQUENCHABLE THIRST for KNOWLEDGE!
+                            Mr. Witherspoon is recognized domestically and internationally among America's most influential leaders. He was named among the "Top 50 Multi-Cultural Leaders" and the "Top 100 Most Influential African Americans in Business" by the National Diversity Council in 2021. He was named by Savoy Magazine to their "Most Influential Black Executives in Corporate America" list in 2020. And in 2019, AACSB International named him a "Most Influential Leader Among Business School Graduates."
+                            </p>
+
+                            <p>
+                            He was a college exchange student in Konstanz, Germany and has earned degrees in Education from Eastern Florida State College and in Economics from Tuskegee University where he graduated cum laude. Trained for ministry at Cincinnati Bible Seminary, he is licensed & ordained.
+                            </p>
+
+                            <p>
+                            His board-level community service includes: chairman, INROADS National Board of Directors and vice chairman, Tuskegee University's Board of Trustees. His industry board work includes: co-chair, E2E Value Chain Pillar of Consumer Goods Forum, Board Committee for Standards at GS1 and past chairman of ECR Asia Pacific. He is also a member of The Executive Leadership Council.
                             </p>
 
                             <p>

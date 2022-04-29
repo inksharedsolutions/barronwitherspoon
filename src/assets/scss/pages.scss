@@ -57,6 +57,10 @@ $prm-font-size : 12px;
     margin: 4em 0 !important;
     // background: #eee;
     // padding: 44px;
+    
+    p{
+        font-size: 18px;
+    }
 }
 
 
@@ -118,7 +122,7 @@ $prm-font-size : 12px;
         font-size: 12px;
         letter-spacing: 4px;
         margin-bottom: 9px;
-        color: #ffffff;
+        color: #121212;
         text-transform: uppercase;
     }
 }
@@ -176,7 +180,7 @@ $prm-font-size : 12px;
 #form-wrapper,
 #textAreaContainer {
     label {
-        color: #ffff;
+        color: #121212;
         display: block;
         font-size: 13px;
         letter-spacing: 1px;
@@ -192,7 +196,7 @@ $prm-font-size : 12px;
 .contactMessage {
     font-size: 20px !important;
     margin-bottom: 24px !important;
-    color: #ffff;
+    color: #121212;
 }
 
 .flexMainContainer {
@@ -294,9 +298,9 @@ $prm-font-size : 12px;
 }
 
 .ata-name {
-    color: #181818 !important;
+    color: #ec6168 !important;
     font-family: fantasy;
-    font-size: 3.5vw;
+    font-size: 3vw;
 }
 
 .disqus-container-bars {
@@ -332,7 +336,7 @@ $prm-font-size : 12px;
 
     h2 {
 
-        color: #c79740;
+        color: #ec6168 !important;
         font-size: 2em;
         margin: 1em 0;
 
@@ -340,14 +344,14 @@ $prm-font-size : 12px;
             content: '';
             width: 101px;
             height: 2px;
-            background-color: #53bf58;
+            background-color: #2A7CA4;
             display: block;
             margin: 11px 0;
         }
     }
 
     p {
-        color: #ffff;
+        color: #121212;
         margin-bottom: 1em;
 
     }

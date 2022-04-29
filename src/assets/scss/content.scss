@@ -9,7 +9,7 @@
         width: 680px;
         // position: relative;
         // z-index: 2;
-        padding: 30px;
+        // padding: 30px;
     }
 
     button {
@@ -103,7 +103,7 @@
     text-align: center;
     position: relative;
     z-index: 2;
-    background: #bbbdb1;
+    background: #2A7CA4;
 
     h1 {
 
@@ -133,9 +133,11 @@
 } 
 // this is a change - Harry
 .upper-main-author {
-    background: url("../../../static/banner/AuthorBackground.png");
-    background-size: cover;
-    box-shadow: inset 0 0 0 2000px rgb(142 116 107 / 25%);
+    // background: url("../../../static/banner/AuthorBackground.png");
+    background-color: #F4F3F1;
+    background-image: url("../../../static/banner/wave-grid.png");
+    // background-size: cover;
+    // box-shadow: inset 0 0 0 2000px rgb(142 116 107 / 25%);
     // background: linear-gradient(270deg, #000000 0, #f4e8d6);
     padding: 5% 0;
     text-align: center;
@@ -159,7 +161,7 @@
     #wrapper-two-books {
 
         margin: 5% 0;
-        gap: 3em;
+        gap: 1em;
         max-width: 1200px;
         margin: 0 auto;
         align-items: center;
@@ -172,18 +174,18 @@
 
     text-align: center;
     padding: 4% 0;
-    background: #bbbdb1;
-
+    background-color: #F4F3F1;
+    background-image: url("../../../static/banner/wave-grid.png");
 
     h1 {
         font-size: 3.5em;
         text-transform: uppercase;
         font-weight: 900;
-        color: #ffffff !important;
+        color: #121212 !important;
         
     }
     p{
-        color: #ffffff;
+        color: #121212;
     }
 
 
@@ -351,9 +353,9 @@
         color: rgb(0, 0, 0);
     }
 
-    .ata-name {
-        margin: 0 90px;
-    }
+    // .ata-name {
+    //     margin: 0 90px;
+    // }
 
 }
 
@@ -573,7 +575,7 @@
 }
 
 #disqus_thread {
-    padding: 33px;
+    padding: 25px;
 }
 
 .cards-wrapper {
@@ -706,7 +708,8 @@
 /*Modification*/
 #author-contents {
 
-    background: url("../../../static/banner/bible.jpeg") no-repeat;
+    // background: url("../../../static/banner/bible.jpeg") no-repeat;
+    background: #ec6168;
     box-shadow: inset 0 0 0 2000px rgb(255 255 255 / 25%);
     justify-content: center;
 
@@ -744,7 +747,8 @@
     }
 
     p {
-        font-weight: 700;
+        // font-weight: 700;
+        font-size: 18px;
         color: #000;
     }
 

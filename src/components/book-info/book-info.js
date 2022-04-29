@@ -21,8 +21,8 @@ const BookInfo = (props) => {
                         <p className="sub-heading">
                             {props.data.spanFirst}
                         </p>
-
-                        <span>{props.data.spanTitle}</span>
+                        <hr style={{backgroundColor: '#2A7CA4'}}/>
+                        {/* <span>{props.data.spanTitle}</span> */}
 
                         <div className="content-body"
                             dangerouslySetInnerHTML={{ __html: `${props.data.content}` }} />

@@ -195,7 +195,7 @@
     }
 
     input[name="submit"] {
-        background: #ffaa6b;
+        background: #ec6168;
         border: none;
         color: #ffff;
         cursor: pointer;
@@ -205,12 +205,12 @@
 
     button {
         margin: 0;
-        background: #ffaa6b;
+        background: #ec6168;
         border-radius: 0;
         border: 0;
 
         &:hover{
-            background-color: #ffaa6b;
+            background-color: #ec6168;
             a{
                 color: white;
             }
