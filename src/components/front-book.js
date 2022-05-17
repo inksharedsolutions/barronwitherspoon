@@ -28,14 +28,17 @@ const MidBook = (props) => {
                             </h1>
 
                             <p>
-                            The Fallacy of Affinity makes the case for cross-cultural worship as an imperative for all Christians. The book makes the case biblically and empirically and supports the case with practical experience.
+                            The Fallacy of Affinity makes the case for cross-cultural worship as an imperative for all Christians. The book makes the case biblically and empirically and supports the case with practical experience...    
+                            <Link to="/about-the-book">
+                                        Read More
+                                </Link>
 
 
                             </p>
 
                             <button className="btn-book-featured">
-                                <Link to="/about-the-book">
-                                    Read More
+                                <Link to="https://www.amazon.com/Fallacy-Affinity-Case-Cross-Cultural-Worship-ebook/dp/B09HXZ1TNJ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323774&sr=8-1" target="_blank">
+                                    Buy Now
                                 </Link>
                             </button>
 

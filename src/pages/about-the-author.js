@@ -6,7 +6,7 @@ import Nav from '../components/nav'
 
 import Banner from '../components/non-front-banner'
 // import AuthorImg from '../../static/author/author-profile.jpg'
-import DummyImg from '../../static/author/dummy-profile.jpg'
+import DummyImg from '../../static/author/dummy-profile.png'
 import { Helmet } from "react-helmet"
 
 const ATB = (props) => {
@@ -33,6 +33,10 @@ const ATB = (props) => {
 
 
                         <article className="article-section column" id="author">
+
+                            <p>
+                            Barron Witherspoon is a bi-vocational leader with significant contributions to the ministry and to business. His first book, The Fallacy of Affinity, chronicles his most important work in the Christian ministry. His second book is expected to be released in 2022 and will focus on his most important work in the business arena.
+                            </p>
 
                             <p>
                             Barron Witherspoon, Sr. retired as P&G's Senior Vice President for Global Industry Affairs & The Corporate Race Initiative, based in the company's Cincinnati, Ohio Headquarters. Tapped by the CEO to lead the Corporate Race Initiative, his charge was to build a coalition to "define, declare and demonstrate the specific role corporations should play in improving racial equity in America." In Industry Affairs, he led the company's worldwide external interface with trade associations & thought leaders impacting public policy and industry standards.
